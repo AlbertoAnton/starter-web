@@ -5,7 +5,11 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
+Añadido texto
+
 ## Deployment
+
+Añadido texto
 
 ## How To Contribute
 
