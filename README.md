@@ -13,6 +13,6 @@ Añadido texto
 
 ## How To Contribute
 
-Sample website with plenty of files for demos
+Please fork this repositpry and then issue Pull Request for review
 
 2014 Git >Training
